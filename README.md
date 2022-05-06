@@ -1,2 +1,3 @@
 # xyz
 Good
+/kill @e
